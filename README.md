@@ -4,7 +4,7 @@ Hands-on Linux server and networking lab built on an Ubuntu VM.
 
 ## Progress
 
-- [ ] Ubuntu VM provisioned
+- [x] Ubuntu VM provisioned
 - [ ] Nginx hosting a static site
 - [ ] Users restricted to SSH key authentication (password login disabled)
 - [ ] UFW firewall configured
