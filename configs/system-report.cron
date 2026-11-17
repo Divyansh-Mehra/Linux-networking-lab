@@ -1,0 +1,1 @@
+*/5 * * * * root /usr/bin/systemctl start system-report.service

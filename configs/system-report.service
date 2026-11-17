@@ -1,0 +1,7 @@
+[Unit]
+Description=System usage report and disk alert
+
+[Service]
+Type=oneshot
+User=labadmin
+ExecStart=/home/labadmin/system-report.sh
