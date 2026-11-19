@@ -11,4 +11,4 @@ Hands-on Linux server and networking lab built on an Ubuntu VM.
 - [x] Bash script reporting CPU, disk, memory, with email alerts above 80% disk
 - [x] Script running as a systemd service with cron scheduling
 - [ ] 30+ commands documented with usage context
-- [ ] Network diagram (DNS, TCP, TLS, HTTP)
+- [x] Network diagram (DNS, TCP, TLS, HTTP)
