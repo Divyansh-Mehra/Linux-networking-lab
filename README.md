@@ -12,3 +12,7 @@ Hands-on Linux server and networking lab built on an Ubuntu VM.
 - [x] Script running as a systemd service with cron scheduling
 - [x] 30+ commands documented with usage context
 - [x] Network diagram (DNS, TCP, TLS, HTTP)
+
+## Screenshot
+
+![Site served by Nginx](docs/site.png)
